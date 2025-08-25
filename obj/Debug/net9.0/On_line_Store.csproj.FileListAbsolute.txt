@@ -1,0 +1,485 @@
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\appsettings.Development.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\appsettings.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.staticwebassets.runtime.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.staticwebassets.endpoints.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.exe
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.deps.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.runtimeconfig.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\On_line_Store.pdb
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Azure.Core.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Azure.Identity.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Humanizer.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.ClientModel.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.CodeDom.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Text.Json.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.csproj.AssemblyReference.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.AssemblyInfoInputs.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.AssemblyInfo.cs
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.csproj.CoreCompileInputs.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.RazorAssemblyInfo.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.RazorAssemblyInfo.cs
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\scopedcss\bundle\On_line_Store.styles.css
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\scopedcss\projectbundle\On_line_Store.bundle.scp.css
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\orskksp1uf-b9sayid5wm.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\9r28jgf5rd-61n19gt1b8.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\ldi30ge5du-xtxxf3hu2r.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\dkip841513-bqjiyaj88i.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\mrz6ueeu1y-c2jlpeoesf.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\v8t9lwi6em-erw9l3u2r3.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\c663lyl0zw-aexeepp0ev.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\7z7pwq3b3i-d7shbmvgxk.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\z0udh88fsv-ausgxo2sd3.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\xnx0aw139g-k8d9w2qqmf.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\0lx9i24ys4-cosvhxvwiu.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\081crnf25c-ub07r2b239.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\32ipqbw9sp-fvhpjtyr6v.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\e08x2qkoo9-b7pk76d08c.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\yr8s8nnn2t-fsbi9cje9m.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\9z2hsdxzu7-rzd6atqjts.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\gz2h0f4fyh-ee0r1s7dh0.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\nc7um2xp8i-dxx9fxp4il.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\08id1szfkb-jd9uben2k1.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\3lo15cbeg3-khv3u5hwcm.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\rpqrhuz3mh-r4e9w2rdcm.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\6abjf5c539-lcd1t2u6c8.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\3k1r01rzv1-c2oey78nd0.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\trx2cu8zv9-tdbxkamptv.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\gu0mv1evex-j5mq2jizvt.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\0jlw8r4rnz-06098lyss8.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\4rkasofrsk-nvvlpmu67g.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\eje9qd678i-s35ty4nyc5.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\v4ywedgyhn-pj5nd1wqec.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\ksiwcq3shh-46ein0sx1k.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\lsfylzt5qj-v0zj4ognzu.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\d6sqli73vs-37tfw0ft22.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\aykcx11wlo-hrwsygsryq.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\or15vtxh3f-pk9g2wxc8p.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\2ox3epp3e0-ft3s53vfgj.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\q8f4y2dhpu-6cfz1n2cew.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\1pd68pdlsu-6pdc2jztkx.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\4tyzyp99tf-493y06b0oq.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\bwfksmo8dt-iovd86k7lj.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\u533kwxg3p-vr1egmr9el.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\fpi9h44nn5-kbrnm935zg.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\ixfeqrpm4n-jj8uyg4cgr.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\ilt5is7y52-y7v9cxd14o.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\8oq8qcafj2-notf2xhcfb.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\v26agdapqz-h1s4sie4z3.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\jf8ik2jrkg-63fj8s7r0e.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\ryjtd2tz0g-0j3bgjxly4.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\9bf14knqe0-47otxtyo56.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\x7qwltl6bx-4v8eqarkd7.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\80gnj2kwah-356vix0kms.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\t9luh8ousd-83jwlth58m.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\tdldmbucdd-mrlpezrjn3.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\9tw256a6vy-lzl9nlhx6b.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\7r7jiq0zd7-ag7o75518u.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\nlw6quxkqs-x0q3zqp4vz.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\cin589i5pu-0i3buxo5is.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\pe37zcivfv-o1o13a6vjx.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\gaf341gw2u-ttgo8qnofa.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\6d1ebudmt0-2z0ns9nrw6.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\zpihk4zlmn-muycvpuwrr.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\xqrtympm0n-87fc7y1x7t.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\qvdd50k0yo-mlv21k5csn.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\gpuo17h0jo-9qemyipac9.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\compressed\p0dv2y7xxw-9qemyipac9.gz
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets.build.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets.development.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.On_line_Store.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.On_line_Store.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.build.On_line_Store.props
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.On_line_Store.props
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.On_line_Store.props
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets.pack.json
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_.B2E1796F.Up2Date
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\refint\On_line_Store.dll
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.pdb
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\On_line_Store.genruntimeconfig.cache
+E:\ITI_TASKS\On_line_Store\On_line_Store\obj\Debug\net9.0\ref\On_line_Store.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\appsettings.Development.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\appsettings.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.staticwebassets.endpoints.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.staticwebassets.runtime.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.exe
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.deps.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.runtimeconfig.json
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\On_line_Store.pdb
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Azure.Core.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Azure.Identity.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Humanizer.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.ClientModel.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.CodeDom.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Memory.Data.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Text.Json.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\online_ store\On_line_Store\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.csproj.AssemblyReference.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.AssemblyInfoInputs.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.AssemblyInfo.cs
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.csproj.CoreCompileInputs.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.MvcApplicationPartsAssemblyInfo.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.RazorAssemblyInfo.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.RazorAssemblyInfo.cs
+E:\online_ store\On_line_Store\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\online_ store\On_line_Store\obj\Debug\net9.0\scopedcss\bundle\On_line_Store.styles.css
+E:\online_ store\On_line_Store\obj\Debug\net9.0\scopedcss\projectbundle\On_line_Store.bundle.scp.css
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\orskksp1uf-b9sayid5wm.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\9r28jgf5rd-61n19gt1b8.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ldi30ge5du-xtxxf3hu2r.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\dkip841513-bqjiyaj88i.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\mrz6ueeu1y-c2jlpeoesf.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\v8t9lwi6em-erw9l3u2r3.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\c663lyl0zw-aexeepp0ev.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\7z7pwq3b3i-d7shbmvgxk.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\z0udh88fsv-ausgxo2sd3.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\xnx0aw139g-k8d9w2qqmf.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\0lx9i24ys4-cosvhxvwiu.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\081crnf25c-ub07r2b239.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\32ipqbw9sp-fvhpjtyr6v.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\e08x2qkoo9-b7pk76d08c.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\yr8s8nnn2t-fsbi9cje9m.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\9z2hsdxzu7-rzd6atqjts.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\gz2h0f4fyh-ee0r1s7dh0.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\nc7um2xp8i-dxx9fxp4il.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\08id1szfkb-jd9uben2k1.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\3lo15cbeg3-khv3u5hwcm.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\rpqrhuz3mh-r4e9w2rdcm.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\6abjf5c539-lcd1t2u6c8.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\3k1r01rzv1-c2oey78nd0.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\trx2cu8zv9-tdbxkamptv.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\gu0mv1evex-j5mq2jizvt.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\0jlw8r4rnz-06098lyss8.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\4rkasofrsk-nvvlpmu67g.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\eje9qd678i-s35ty4nyc5.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\v4ywedgyhn-pj5nd1wqec.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ksiwcq3shh-46ein0sx1k.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\lsfylzt5qj-v0zj4ognzu.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\d6sqli73vs-37tfw0ft22.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\aykcx11wlo-hrwsygsryq.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\or15vtxh3f-pk9g2wxc8p.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\2ox3epp3e0-ft3s53vfgj.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\q8f4y2dhpu-6cfz1n2cew.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\1pd68pdlsu-6pdc2jztkx.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\4tyzyp99tf-493y06b0oq.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\bwfksmo8dt-iovd86k7lj.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\u533kwxg3p-vr1egmr9el.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\fpi9h44nn5-kbrnm935zg.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ixfeqrpm4n-jj8uyg4cgr.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ilt5is7y52-y7v9cxd14o.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\8oq8qcafj2-notf2xhcfb.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\v26agdapqz-h1s4sie4z3.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\jf8ik2jrkg-63fj8s7r0e.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ryjtd2tz0g-0j3bgjxly4.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\9bf14knqe0-47otxtyo56.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\x7qwltl6bx-4v8eqarkd7.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\80gnj2kwah-356vix0kms.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\t9luh8ousd-83jwlth58m.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\tdldmbucdd-mrlpezrjn3.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\9tw256a6vy-lzl9nlhx6b.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\7r7jiq0zd7-ag7o75518u.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\nlw6quxkqs-x0q3zqp4vz.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\cin589i5pu-0i3buxo5is.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\pe37zcivfv-o1o13a6vjx.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\gaf341gw2u-ttgo8qnofa.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\6d1ebudmt0-2z0ns9nrw6.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\zpihk4zlmn-muycvpuwrr.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\xqrtympm0n-87fc7y1x7t.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\qvdd50k0yo-mlv21k5csn.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\gpuo17h0jo-9qemyipac9.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\p0dv2y7xxw-9qemyipac9.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets.build.json
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets.development.json
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.On_line_Store.Microsoft.AspNetCore.StaticWebAssets.props
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.On_line_Store.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.build.On_line_Store.props
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.On_line_Store.props
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.On_line_Store.props
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets.pack.json
+E:\online_ store\On_line_Store\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_.B2E1796F.Up2Date
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.dll
+E:\online_ store\On_line_Store\obj\Debug\net9.0\refint\On_line_Store.dll
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.pdb
+E:\online_ store\On_line_Store\obj\Debug\net9.0\On_line_Store.genruntimeconfig.cache
+E:\online_ store\On_line_Store\obj\Debug\net9.0\ref\On_line_Store.dll
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\w9eww1kmxf-atcas3q67h.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\d4a7j7e7x2-bz1hqm0ly2.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\5f96v77txa-631gmwhnh6.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\f0ebhyvow5-kryym8p5f5.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\s2f2rcxx6m-rrupqaswi7.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\6930xo5w9x-r1hye14rqe.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\zjuxtzwoh0-4cpzj38bla.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ot034b04xs-irrmrafh02.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\d1z1oedizs-cgkztlecp5.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\6gvx26gid5-cy66rzsxr7.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\p1qbl4ezoe-fynx4m6ffa.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\oekydxmnhg-j3wy3vomxf.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\k6dwqur9t7-3sqe7mmf4b.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\zm3vxmi19b-bvb3mcnxs0.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\46x6oj4o08-rstaz3qrjg.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\x6fgxp4xfl-1ktijcimzc.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ia6i8apwnq-8vqiqdzfsy.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\58smsqasd6-xre24ck5s9.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\ytplti35ed-uydiqv09h2.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\zzcz7sj451-6dwowm74tu.gz
+E:\online_ store\On_line_Store\obj\Debug\net9.0\compressed\3mzy292b64-g8mioufvz9.gz

@@ -1,0 +1,40 @@
+﻿@model List<User>
+
+<h2>All Users</h2>
+<a asp-action="AddUser" class="btn btn-primary">Add user</a>
+
+<table class ="table table-borderd " style=width:100%; text-align:left;">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>phone</th>
+            <th>Actions</th>
+            
+         
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+                <tr>
+                    <td>@user.UId</td>
+                    <td>@user.UName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Phone</td>
+                  
+						<td>
+							<a asp-action="Edit" asp-route-id="@user.UId" class="btn btn-warning">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@user.UId" class="btn btn-danger">Delete</a>
+							<a asp-action="Details" asp-route-id="@user.UId" class="btn btn-info">Details</a>
+						
+                   
+                </tr>
+        }
+    </tbody>
+</table>
+
+
+
